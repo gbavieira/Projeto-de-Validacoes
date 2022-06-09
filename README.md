@@ -1,2 +1,2 @@
 # Projeto-de-Validacoes
-Small Project to learn and deal with validations in Django
+Small Project to learn and deal with validations in Django from Alura
